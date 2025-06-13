@@ -27,7 +27,8 @@ The system keeps track of:
 5. `Employee_Project` – Tracks which employees are working on which projects and under which manager.
 
 <img width="626" alt="Screenshot 2025-06-13 at 3 06 42 PM" src="https://github.com/user-attachments/assets/c340d1d1-907b-46d7-92c2-985ece4c0981" />
-![image](https://github.com/user-attachments/assets/170b2f52-e694-4ed7-82d7-539a1d46264b)
+![WhatsApp Image 2025-06-13 at 14 39 09](https://github.com/user-attachments/assets/458556b7-e5fd-427b-910b-f0540832eb0f)
+
 
 
 
